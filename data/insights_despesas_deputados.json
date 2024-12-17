@@ -1,0 +1,72 @@
+[
+    {
+        "Nome": "Despesas Totais por Partido",
+        "Objetivo": "Analisar as despesas l\u00edquidas totais por partido pol\u00edtico.",
+        "M\u00e9todo": "Agrupamento por partido e soma das despesas l\u00edquidas.",
+        "Resultado": {
+            "AVANTE": 1159988.04,
+            "CIDADANIA": 523325.57,
+            "MDB": 7764104.0,
+            "NOVO": 388712.24,
+            "PCdoB": 1486705.1,
+            "PDT": 3266771.25,
+            "PL": 15921047.73,
+            "PODE": 2082730.13,
+            "PP": 9172337.16,
+            "PRD": 1024632.44,
+            "PSB": 2520048.24,
+            "PSD": 7663704.83,
+            "PSDB": 2161463.55,
+            "PSOL": 2108362.61,
+            "PT": 11930247.44,
+            "PV": 1093741.87,
+            "REDE": 189205.24,
+            "REPUBLICANOS": 9207004.1,
+            "S.PART.": -3322.73,
+            "SOLIDARIEDADE": 867146.59,
+            "UNI\u00c3O": 11081051.23
+        }
+    },
+    {
+        "Nome": "Despesas M\u00e9dias por Tipo de Despesa",
+        "Objetivo": "Analisar as despesas m\u00e9dias por tipo de despesa.",
+        "M\u00e9todo": "Agrupamento por tipo de despesa e c\u00e1lculo da m\u00e9dia das despesas l\u00edquidas.",
+        "Resultado": {
+            "AQUISI\u00c7\u00c3O DE TOKENS E CERTIFICADOS DIGITAIS": 1216.95,
+            "ASSINATURA DE PUBLICA\u00c7\u00d5ES": 212.048,
+            "COMBUST\u00cdVEIS E LUBRIFICANTES.": 314.7773570788115,
+            "DIVULGA\u00c7\u00c3O DA ATIVIDADE PARLAMENTAR.": 5895.320889102873,
+            "FORNECIMENTO DE ALIMENTA\u00c7\u00c3O DO PARLAMENTAR": 67.38574182732607,
+            "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.": 437.1031369426752,
+            "LOCA\u00c7\u00c3O OU FRETAMENTO DE AERONAVES": 22114.997727272726,
+            "LOCA\u00c7\u00c3O OU FRETAMENTO DE EMBARCA\u00c7\u00d5ES": 5343.75,
+            "LOCA\u00c7\u00c3O OU FRETAMENTO DE VE\u00cdCULOS AUTOMOTORES": 5782.440590142673,
+            "MANUTEN\u00c7\u00c3O DE ESCRIT\u00d3RIO DE APOIO \u00c0 ATIVIDADE PARLAMENTAR": 1632.487728780248,
+            "PARTICIPA\u00c7\u00c3O EM CURSO, PALESTRA OU EVENTO SIMILAR": 8822.805,
+            "PASSAGEM A\u00c9REA - REEMBOLSO": 3509.4235789473682,
+            "PASSAGEM A\u00c9REA - RPA": 1047.982074074074,
+            "PASSAGEM A\u00c9REA - SIGEPA": 648.8548032,
+            "PASSAGENS TERRESTRES, MAR\u00cdTIMAS OU FLUVIAIS": 172.24686153846156,
+            "SERVI\u00c7O DE SEGURAN\u00c7A PRESTADO POR EMPRESA ESPECIALIZADA.": 3573.7095238095235,
+            "SERVI\u00c7O DE T\u00c1XI, PED\u00c1GIO E ESTACIONAMENTO": 51.06152561498533,
+            "TELEFONIA": 366.4661246612466
+        }
+    },
+    {
+        "Nome": "Top 10 Deputados com Maiores Despesas",
+        "Objetivo": "Identificar os 10 deputados com maiores despesas l\u00edquidas.",
+        "M\u00e9todo": "Agrupamento por nome do deputado, soma das despesas l\u00edquidas e sele\u00e7\u00e3o dos 10 maiores.",
+        "Resultado": {
+            "Pompeo de Mattos": 317332.92,
+            "Gabriel Mota": 312111.51,
+            "Zezinho Barbary": 301883.44,
+            "Arthur Oliveira Maia": 299402.73,
+            "Clodoaldo Magalh\u00e3es": 294834.69,
+            "Defensor St\u00e9lio Dener": 293371.01,
+            "Dagoberto Nogueira": 291570.52999999997,
+            "Reginete Bispo": 290957.25,
+            "Adriano do Baldy": 290812.24,
+            "Eun\u00edcio Oliveira": 288972.88
+        }
+    }
+]

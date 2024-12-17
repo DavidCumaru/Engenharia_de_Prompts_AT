@@ -1,0 +1,31 @@
+{
+    "distribuicao": {
+        "PL": 93,
+        "PT": 68,
+        "UNIÃO": 59,
+        "PP": 50,
+        "MDB": 44,
+        "REPUBLICANOS": 44,
+        "PSD": 44,
+        "PDT": 18,
+        "PSB": 14,
+        "PODE": 14,
+        "PSOL": 13,
+        "PSDB": 12,
+        "PCdoB": 7,
+        "AVANTE": 7,
+        "SOLIDARIEDADE": 5,
+        "PV": 5,
+        "CIDADANIA": 5,
+        "PRD": 5,
+        "NOVO": 4,
+        "S.PART.": 1,
+        "REDE": 1
+    },
+    "maioria": "PL",
+    "insights": [
+        "O partido PL possui a maior bancada.",
+        "A distribuição dos partidos influencia diretamente no poder de negociação e na formação de alianças na Câmara.",
+        "Partidos com maior número de deputados têm maior capacidade de influenciar a pauta legislativa."
+    ]
+}
